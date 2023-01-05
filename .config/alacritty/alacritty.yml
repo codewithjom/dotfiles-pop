@@ -494,7 +494,7 @@ font:
 # *tokyo-night
 # *tomorrow-night
 
-colors: *solarized-dark
+colors: *tokyo-night
 
 #######################################
 ##       END OF COLOR SCHEMES        ##
